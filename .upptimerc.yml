@@ -11,6 +11,8 @@ sites:
     url: https://ss.alefvanoon.xyz
   - name: Nitter
     url: https://nitter.alefvanoon.xyz
+  - name: Libreddit
+    url: https://libreddit.alefvanoon.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain.
