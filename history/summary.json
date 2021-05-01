@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/s.alefvanoon.xyz",
     "slug": "whoogle",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "95.13%",
+    "uptimeDay": "95.13%",
+    "uptimeWeek": "95.13%",
+    "uptimeMonth": "95.13%",
+    "uptimeYear": "95.13%",
     "time": 605,
     "timeDay": 605,
     "timeWeek": 605,
     "timeMonth": 605,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2021-04-30": 0
+      "2021-05-01": 33,
+      "2021-04-30": 10
     }
   },
   {
