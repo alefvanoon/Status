@@ -19,14 +19,14 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there.
   cname: status.alefvanoon.xyz
   # baseUrl: /your-repo-name
-  themeUrl: https://raw.githubusercontent.com/alefvanoon/Status/gh-pages/themes/ddark.css
+  themeUrl: https://raw.githubusercontent.com/alefvanoon/Status/gh-pages/themes/dark.css
   logoUrl: https://alefvanoon.xyz/assets/img/avatar.jpg
   name: alefvanoon Status
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/alefvanoon/status
+      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
