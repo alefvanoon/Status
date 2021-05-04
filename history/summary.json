@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/s.alefvanoon.xyz",
     "slug": "whoogle",
     "status": "up",
-    "uptime": "94.48%",
+    "uptime": "94.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.48%",
-    "uptimeMonth": "94.48%",
-    "uptimeYear": "94.48%",
+    "uptimeWeek": "94.50%",
+    "uptimeMonth": "94.50%",
+    "uptimeYear": "94.50%",
     "time": 549,
     "timeDay": 317,
     "timeWeek": 549,
@@ -83,19 +83,19 @@
     "url": "https://libreddit.alefvanoon.xyz",
     "icon": "https://favicons.githubusercontent.com/libreddit.alefvanoon.xyz",
     "slug": "libreddit",
-    "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "97.57%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
-    "time": 2456,
-    "timeDay": 4480,
-    "timeWeek": 2456,
-    "timeMonth": 2456,
-    "timeYear": 2456,
+    "status": "up",
+    "uptime": "99.01%",
+    "uptimeDay": "95.99%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.01%",
+    "time": 2344,
+    "timeDay": 3639,
+    "timeWeek": 2344,
+    "timeMonth": 2344,
+    "timeYear": 2344,
     "dailyMinutesDown": {
-      "2021-05-04": 35
+      "2021-05-04": 58
     }
   },
   {
@@ -122,18 +122,18 @@
     "icon": "https://favicons.githubusercontent.com/newleaf.alefvanoon.xyz",
     "slug": "new-leaf",
     "status": "down",
-    "uptime": "93.81%",
-    "uptimeDay": "93.81%",
-    "uptimeWeek": "93.81%",
-    "uptimeMonth": "93.81%",
-    "uptimeYear": "93.81%",
+    "uptime": "91.13%",
+    "uptimeDay": "91.13%",
+    "uptimeWeek": "91.13%",
+    "uptimeMonth": "91.13%",
+    "uptimeYear": "91.13%",
     "time": 308,
     "timeDay": 308,
     "timeWeek": 308,
     "timeMonth": 308,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2021-05-04": 48
+      "2021-05-04": 71
     }
   }
 ]
