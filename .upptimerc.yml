@@ -15,8 +15,6 @@ sites:
     url: https://libreddit.alefvanoon.xyz
   - name: CloudTube
     url: https://tube.alefvanoon.xyz
-  - name: NewLeaf
-    url: https://newleaf.alefvanoon.xyz
   - name: Bibliogram
     url: https://biblio.alefvanoon.xyz
 
