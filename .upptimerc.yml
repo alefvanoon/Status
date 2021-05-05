@@ -18,7 +18,7 @@ sites:
   - name: NewLeaf
     url: https://newleaf.alefvanoon.xyz
   - name: Bibliogram
-    url: https://bibliogram.alefvanoon.xyz
+    url: https://biblio.alefvanoon.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain.
