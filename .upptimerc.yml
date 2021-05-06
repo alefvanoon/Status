@@ -17,7 +17,7 @@ sites:
     url: https://tube.alefvanoon.xyz
   - name: Bibliogram
     url: https://biblio.alefvanoon.xyz
-  - name: Bibliogram
+  - name: Searx
     url: https://sx.alefvanoon.xyz
 
 status-website:
