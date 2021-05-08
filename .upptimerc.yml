@@ -19,6 +19,8 @@ sites:
     url: https://biblio.alefvanoon.xyz
   - name: Searx
     url: https://sx.alefvanoon.xyz
+  - name: Translate
+    url: https://translate.alefvanoon.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain.
