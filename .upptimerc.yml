@@ -23,7 +23,13 @@ sites:
     url: https://translate.alefvanoon.xyz
   - name: WBO
     url: https://wbo.alefvanoon.xyz
-    
+  - name: HedgeDoc
+    url: https://mdpad.alefvanon.xyz
+  - name: RSS-Bridge
+    url: https://rssb.alefvanon.xyz
+  - name: ytdl
+    url: https://yt.alefvanon.xyz
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain.
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there.
