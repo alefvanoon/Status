@@ -30,7 +30,7 @@ sites:
   - name: ytdl
     url: https://yt.alefvanon.xyz
   - name: invidious
-    url: https://inv.alefvanon.xyz
+    url: https://inv.alefvanoon.xyz
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain.
