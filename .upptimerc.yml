@@ -31,6 +31,10 @@ sites:
     url: https://yt.alefvanon.xyz
   - name: invidious
     url: https://inv.alefvanoon.xyz
+  - name: Piped-API
+    url: https://pipedapi.alefvanoon.xyz
+  - name: PipedP
+    url: https://pipedp.alefvanoon.xyz
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain.
