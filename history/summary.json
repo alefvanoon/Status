@@ -97,11 +97,11 @@
     "icon": "https://favicons.githubusercontent.com/nitter.alefvanoon.xyz",
     "slug": "nitter",
     "status": "up",
-    "uptime": "43.61%",
+    "uptime": "43.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "43.61%",
+    "uptimeYear": "43.68%",
     "time": 398,
     "timeDay": 467,
     "timeWeek": 432,
@@ -408,9 +408,9 @@
     "url": "https://pipedp.alefvanoon.xyz",
     "icon": "https://favicons.githubusercontent.com/pipedp.alefvanoon.xyz",
     "slug": "piped-p",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -420,6 +420,7 @@
     "timeMonth": 237,
     "timeYear": 237,
     "dailyMinutesDown": {
+      "2021-07-23": 0,
       "2021-06-29": 16
     }
   }
