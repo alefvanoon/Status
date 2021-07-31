@@ -41,7 +41,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there.
   cname: status.alefvanoon.xyz
   # baseUrl: /your-repo-name
-  themeUrl: https://raw.githubusercontent.com/alefvanoon/Status/gh-pages/themes/dark.css
+  themeUrl: https://status.alefvanoon.xyz/themes/custom.css
   logoUrl: https://alefvanoon.xyz/assets/img/avatar.jpg
   name: alefvanoon Status
   navbar:
