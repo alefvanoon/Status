@@ -1,7 +1,7 @@
 url: https://pipedapi.alefvanoon.xyz/trending
-status: down
-code: 522
-responseTime: 15535
-lastUpdated: 2021-08-05T05:58:03.233Z
+status: up
+code: 200
+responseTime: 15416
+lastUpdated: 2021-08-05T06:25:58.238Z
 startTime: Sun Jun 27 2021 11:15:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
