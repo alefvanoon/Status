@@ -11,8 +11,12 @@ sites:
     url: https://ss.alefvanoon.xyz
   - name: Nitter
     url: https://nitter.alefvanoon.xyz
+  - name: Nitter.ir
+    url: https://nitter.ir
   - name: Libreddit
     url: https://libreddit.alefvanoon.xyz
+  - name: Teddit
+    url: https://teddit.alefvanoon.xyz
   - name: CloudTube
     url: https://tube.alefvanoon.xyz
   - name: Bibliogram
@@ -31,11 +35,25 @@ sites:
     url: https://yt.alefvanon.xyz
   - name: invidious
     url: https://inv.alefvanoon.xyz
+  - name: Piped-Front
+    url: https://piped.alefvanoon.xyz
   - name: Piped-API
     url: https://pipedapi.alefvanoon.xyz/trending
   - name: PipedP
     url: https://pipedp.alefvanoon.xyz
-    
+  - name: Bandwidth Hero
+    url: https://bh.alefvanoon.xyz
+  - name: SpeedTest
+    url: https://fast.alefvanoon.xyz
+  - name: Send
+    url: https://send.alefvanoon.xyz
+  - name: FreshRSS
+    url: https://rss.alefvanoon.xyz
+  - name: Etherpad
+    url: https://pad.alefvanoon.xyz
+  - name: CyberChef
+    url: https://cyberchef.alefvanoon.xyz
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain.
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there.
