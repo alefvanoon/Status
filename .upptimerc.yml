@@ -53,6 +53,8 @@ sites:
     url: https://pad.alefvanoon.xyz
   - name: CyberChef
     url: https://cyberchef.alefvanoon.xyz
+  - name: Wikiless
+    url: https://wikiless.alefvanoon.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain.
