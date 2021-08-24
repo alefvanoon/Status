@@ -38,7 +38,7 @@ sites:
   - name: Piped-Front
     url: https://piped.alefvanoon.xyz
   - name: Piped-API
-    url: https://pipedapi.alefvanoon.xyz/trending
+    url: https://piped-api.alefvanoon.xyz/trending?region=US
   - name: PipedP
     url: https://pipedp.alefvanoon.xyz
   - name: Bandwidth Hero
