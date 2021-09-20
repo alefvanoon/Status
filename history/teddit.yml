@@ -1,7 +1,7 @@
 url: https://teddit.alefvanoon.xyz
-status: up
-code: 200
-responseTime: 2507
-lastUpdated: 2021-09-19T23:19:10.711Z
+status: down
+code: 502
+responseTime: 190
+lastUpdated: 2021-09-20T05:31:13.822Z
 startTime: Sat Aug 21 2021 19:28:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
