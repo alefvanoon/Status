@@ -1,7 +1,7 @@
 url: https://piped-api.alefvanoon.xyz/trending?region=US
-status: down
-code: 530
-responseTime: 71
-lastUpdated: 2021-10-28T03:12:01.728Z
+status: up
+code: 200
+responseTime: 1809
+lastUpdated: 2021-10-28T03:32:09.947Z
 startTime: Sun Jun 27 2021 11:15:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
