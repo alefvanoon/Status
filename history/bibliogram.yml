@@ -1,7 +1,7 @@
 url: https://biblio.alefvanoon.xyz
-status: up
-code: 200
-responseTime: 330
-lastUpdated: 2021-11-03T16:39:25.602Z
+status: down
+code: 502
+responseTime: 10794
+lastUpdated: 2021-11-03T18:30:43.442Z
 startTime: Wed May 05 2021 06:16:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
