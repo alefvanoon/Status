@@ -654,7 +654,7 @@
     "timeMonth": 0,
     "timeYear": 1341,
     "dailyMinutesDown": {
-      "2021-11-30": 752,
+      "2021-11-30": 774,
       "2021-11-29": 1440,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
@@ -783,19 +783,19 @@
     "url": "https://piped.alefvanoon.xyz",
     "icon": "https://favicons.githubusercontent.com/piped.alefvanoon.xyz",
     "slug": "piped-front",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 3366,
-    "timeWeek": 661,
-    "timeMonth": 273,
-    "timeYear": 240,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 241,
+    "timeDay": 1852,
+    "timeWeek": 621,
+    "timeMonth": 275,
+    "timeYear": 241,
     "dailyMinutesDown": {
-      "2021-11-30": 0
+      "2021-11-30": 22
     }
   },
   {
@@ -872,7 +872,7 @@
     "status": "up",
     "uptime": "90.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "70.34%",
+    "uptimeWeek": "70.56%",
     "uptimeMonth": "57.91%",
     "uptimeYear": "90.79%",
     "time": 370,
@@ -986,7 +986,7 @@
     "timeMonth": 0,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2021-11-30": 752,
+      "2021-11-30": 775,
       "2021-11-29": 1440,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
@@ -1104,7 +1104,7 @@
     "timeMonth": 0,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2021-11-30": 752,
+      "2021-11-30": 775,
       "2021-11-29": 1440,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
