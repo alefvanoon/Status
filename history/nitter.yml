@@ -1,7 +1,7 @@
 url: https://nitter.alefvanoon.xyz
-status: up
-code: 200
-responseTime: 1549
-lastUpdated: 2022-03-27T09:59:42.004Z
+status: down
+code: 502
+responseTime: 120
+lastUpdated: 2022-03-28T02:51:30.126Z
 startTime: Fri Apr 30 2021 09:47:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
