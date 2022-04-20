@@ -1,7 +1,7 @@
 url: https://libreddit.alefvanoon.xyz
-status: up
-code: 200
-responseTime: 1899
-lastUpdated: 2022-04-19T23:19:14.459Z
+status: down
+code: 502
+responseTime: 441
+lastUpdated: 2022-04-20T21:36:05.967Z
 startTime: Fri Apr 30 2021 17:32:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
